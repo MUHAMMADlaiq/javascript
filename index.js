@@ -8,4 +8,5 @@ console.log(a);
 var nm1 = 10
 var nm2 = 10
 var result = nm1 + nm2
-console.log(result);
+var flag = false
+console.log('flag', typeof(flag)); 
